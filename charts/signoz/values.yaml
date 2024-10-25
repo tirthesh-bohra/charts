@@ -10,7 +10,7 @@ global:
   storageClass: null
   # -- Kubernetes cluster domain
   # It is used only when components are installed in different namespace
-  clusterDomain: cluster.gcp-stage.apnaklub.com
+  clusterDomain: cluster.local
   # -- Kubernetes cluster name
   # It is used to attached to telemetry data via resource detection processor
   clusterName: ""
